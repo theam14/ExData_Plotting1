@@ -1,3 +1,24 @@
+## Update: Script Usage
+
+The script that present the functions to load and plot the data is run_plot.R.
+This script present the following functions:
+* loadData - Load the information from the data set
+* runPlot - Execute the data load and perform all plots, saving the plots in PNG files.
+* runPlot1 - Perform the plot 1
+* runPlot2 - Perform the plot 2
+* runPlot3 - Perform the plot 3
+* runPlot4 - Perform the plot 4
+
+The following scripts are included to load data, plot and save a PNG image for each graphic, where:
+* plot1.R - Load data and create the image file 'plot1.png'
+* plot2.R - Load data and create the image file 'plot2.png'
+* plot3.R - Load data and create the image file 'plot3.png'
+* plot4.R - Load data and create the image file 'plot4.png'
+
+
+### Requirements:
+* <b>The package data.table is necessary.</b>
+
 ## Introduction
 
 This assignment uses data from
